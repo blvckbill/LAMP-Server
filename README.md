@@ -1,2 +1,1 @@
-# LAMP-Server
-This repository sets up a LAMP server
+This is a repository that sets up a LAMP server
